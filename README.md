@@ -1,7 +1,7 @@
 BreakBlockOnAndroid
 ====
 
-アンドロイドのブロック崩し
+Android端末のブロック崩し
 
 ## Description
 * Android端末で出来るブロック崩し
